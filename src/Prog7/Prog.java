@@ -83,7 +83,7 @@ class Consumer implements Runnable {
         }
     }
 }
-class prog7 {
+class Prog {
     public static void main(String args[]) {
         market q = new market();
         new Producer(q, "Mango");
