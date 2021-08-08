@@ -16,3 +16,24 @@ RVCE 4th Sem Lab Programs DAA OOPS
 |8|Write the following methods that return a lambda expression performing a specified action: i. Perform Operation isOdd(): The lambda expression must return true if a number is odd or false if it is even. ii. Perform Operation isPrime(): The lambda expression must return true if a number is prime or false if it is composite. iii. Perform Operation isPalindrome(): The lambda expression must return true if a number is a palindrome or false if it is not. Write a JAVA program using above lambda expressions to take 2 integers as input where the first integer specifies the condition to check for (case 1 for Odd/Even, case 2 for Prime/Composite, or case 3 for Palindrome). The second integer denotes the number to be checked.|[Program](./OOPS/prog8)|
 |9|Write a Java program to create a new array list, add some colors (string) and perform the following operations: (i) Add elements of List to ArrayList (ii) Copy ArrayList to Array (iii) Reverse ArrayList content (iv) Get Sub list from an ArrayList. (v) To sort a given ArrayList (vi) Clone an ArrayList to another ArrayList|[Program](./OOPS/prog9)|
 |10|i. Write a Java program to find the penultimate (next to last) word of a sentence. ii. Write program to replace a string "python" with "java" and "java" with "python" in a given string.iii. Write a program that splits a string into a number of  with the help of string split () method and then prints the substrings.|[Program](./OOPS/prog10)|
+
+
+#### Infosys headstart course answers -> [PDF](./OOPS/Infosys-headstart.pdf)
+
+
+### DAA
+
+| # | Problem statement | Program |
+|---| ----- | -------- |
+|1||[Program 1](./DAA/Program_1.pdf)|
+|2||[Program 2](./DAA/Program_2.pdf)|
+|3||[Program 3](./DAA/Program_3.pdf)|
+|4||[Program 4](./DAA/Program_4.pdf)|
+|5||[Program 5](./DAA/Program_5.pdf)|
+|6||[Program 6](./DAA/Program_6.pdf)|
+|7||[Program 7](./DAA/Program_7.pdf)|
+|8||[Program 8](./DAA/Program_8.pdf)|
+|9||[Program 9](./DAA/Program_9.pdf)|
+|10||[Program 10](./DAA/Program_10.pdf)|
+|11||[Program 11](./DAA/Program_11.pdf)|
+|12|||
