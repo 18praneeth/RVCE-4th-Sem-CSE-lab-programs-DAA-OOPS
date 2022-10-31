@@ -25,15 +25,15 @@ RVCE 4th Sem Lab Programs DAA OOPS
 
 | # | Problem statement | Program |
 |---| ----- | -------- |
-|1||[Program 1](./DAA/Program_1.pdf)|
-|2||[Program 2](./DAA/Program_2.pdf)|
-|3||[Program 3](./DAA/Program_3.pdf)|
-|4||[Program 4](./DAA/Program_4.pdf)|
-|5||[Program 5](./DAA/Program_5.pdf)|
-|6||[Program 6](./DAA/Program_6.pdf)|
-|7||[Program 7](./DAA/Program_7.pdf)|
+|1|Merge Sort|[Program 1](./DAA/Program_1.pdf)|
+|2|Quick Sort|[Program 2](./DAA/Program_2.pdf)|
+|3|Breadth First Search|[Program 3](./DAA/Program_3.pdf)|
+|4|Depth First Search|[Program 4](./DAA/Program_4.pdf)|
+|5|Heap Sort|[Program 5](./DAA/Program_5.pdf)|
+|6|Pattern Matching|[Program 6](./DAA/Program_6.pdf)|
+|7|Knapsack Problem|[Program 7](./DAA/Program_7.pdf)|
 |8||[Program 8](./DAA/Program_8.pdf)|
-|9||[Program 9](./DAA/Program_9.pdf)|
-|10||[Program 10](./DAA/Program_10.pdf)|
-|11||[Program 11](./DAA/Program_11.pdf)|
+|9|Dijkstara's Algorithm|[Program 9](./DAA/Program_9.pdf)|
+|10|Subset Sum Problem|[Program 10](./DAA/Program_10.pdf)|
+|11|N-Queens Problem|[Program 11](./DAA/Program_11.pdf)|
 |12|||
